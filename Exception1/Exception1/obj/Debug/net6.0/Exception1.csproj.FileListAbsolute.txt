@@ -1,0 +1,14 @@
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\bin\Debug\net6.0\Exception1.exe
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\bin\Debug\net6.0\Exception1.deps.json
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\bin\Debug\net6.0\Exception1.runtimeconfig.json
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\bin\Debug\net6.0\Exception1.dll
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\bin\Debug\net6.0\Exception1.pdb
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.AssemblyInfoInputs.cache
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.AssemblyInfo.cs
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.csproj.CoreCompileInputs.cache
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.dll
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\refint\Exception1.dll
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.pdb
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\Exception1.genruntimeconfig.cache
+D:\C# POO\Aulas POO\Exceções\Exception1\Exception1\obj\Debug\net6.0\ref\Exception1.dll
